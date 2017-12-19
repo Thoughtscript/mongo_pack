@@ -1,0 +1,15 @@
+{
+  "name": "mongo_pack",
+  "version": "1.0.0",
+  "engines": {
+    "node": "=8.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thoughtscript/mongo_pack"
+  },
+  "author": "Adam I. Gerard",
+  "dependencies": {
+    "monk": "=6.0.5"
+  }
+}
